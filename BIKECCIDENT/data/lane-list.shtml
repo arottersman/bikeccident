@@ -1,0 +1,2776 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <!--[if gte IE 9]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="google-translate-customization" content="4707bd7f535893a0-45bca7b6a97e5a2d-g609df9381571b349-c"/>
+  <link rel="stylesheet" href="../../css/style.min.css">
+  <!--[if lt IE 9]><link rel="stylesheet" href="../../css/ie.min.css"><![endif]-->
+
+
+<title>NYC DOT: Bicyclists: List of Bicycle Lanes in Roadways</title>
+
+</head>
+<body id="body" lang="en">
+  <div id="nycgov-banner" class="nycgov right-margin">
+    <span id="skiplink"><a href="#_content">Skip past navigation</a>.</span>
+
+    <div class="nycgov-first banner nycgov-part left-margin-inline left-margin-inset">
+      <a id="nycgov-home" href="/" name="nycgov-home">NYC</a>
+    </div>
+
+    <div class="nycgov-second banner nycgov-part">
+
+      <ul id="banner-nycgov-links" class="banner nycgov-links right-margin-inline">
+        <li><a id="nycgov-res" href="http://nyc.gov/residents">NYC Resources</a></li>
+        <li><a id="nycgov-311" href="http://www1.nyc.gov/311">311</a></li>
+        <li class="last"><a id="nycgov-mayor" href="http://www1.nyc.gov/office-of-the-mayor/">Office of the Mayor</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div id="banner-agency" class="right-margin">
+    <div id="banner-agency-logo" class="left-margin-inline left-margin-inset"><a href="http://nyc.gov/dot"></a></div>
+
+    <ul id="banner-links" class="right-margin-inline">
+      <li><a id="signup" href="../contact/email_signup.shtml" title="Sign-up for Email Updates"><span class="icon icon-envelope-alt icon-large"></span></a></li>
+      <li><a class="connect" href="../contact/connect.shtml" title="Facebook"><span class="icon icon-facebook-sign icon-large"></span></a></li>
+      <li><a class="connect" href="../contact/connect.shtml" title="Twitter"><span class="icon icon-twitter-sign icon-large"></span></a></li>
+    </ul>
+
+  </div>
+
+<div class="agency-wrapper right-margin-inline left-margin-inline">
+  <section>
+    <div role="main" class="agency-content agency-module" id="_content">
+
+<header>
+  <div class="header-category-wrap" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <a href="bicyclists.shtml" itemprop="url"><span itemprop="title" class="header-category">Bicyclists</span></a>
+  </div>
+  <h1 class="header-title">List of Bicycle Lanes in Roadways</h1>
+</header>
+
+<p>
+	This page lists bicycle lanes and paths that are installed in roadways.
+	<span class="arr"><a href="bikemaps.shtml">Get maps of New York City's bike network</a></span>
+</p>
+
+<h3>Types of Lanes</h3>
+
+<ul>
+	<li>Standard: A standard bike line is located between a vehicle lane and the parking lane.</li>
+	<li>Curbside: Curbside lanes are painted directly next to a curb on the side of a street without parking.</li>
+	<li>Protected Path: Protected paths are painted between the curb and a lane of parked cars or a jersey barrier.</li>
+	<li>Pedestrian Plaza: Some pedestrian plazas have bike lanes painted along their edges.</li>
+</ul>
+
+<form>
+  <input type="text" id="filter-lane" placeholder="filter the list">
+</form>
+
+<table class="tabular-list table-striped" cellpadding="0" cellspacing="0" id="lane-list">
+	<colgroup>
+		<col width="auto">
+		<col width="8em">
+		<col width="auto">
+	</colgroup>
+	<thead>
+		<tr>
+			<th>Location</th>
+			<th>Type</th>
+			<th>Borough</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr id="bronx">
+			<td>Allerton Avenue from Bouck Avenue to Kingsland Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Allerton Avenue from Bronxwood Avenue to Stedman Place</td>
+			<td>curbside, standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Bartow Avenue from Baychester Avenue and Mall Entrance</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Bruckner Boulevard from Bryant Avenue to Edgewater Road</td>
+			<td>protected path</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Brush Avenue from Bruckner Boulevard to Wenner Place</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Bryant Avenue from East 174th Street to Bruckner Boulevard</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Bryant Avenue from Lafayette Street to Garrison Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Clay Avenue from East 167th Street to East 168th Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Co-Op City Boulevard from Bartow Avenue and Baychester Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Courtlandt Avenue from East 149th Street to Third Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Crotona Avenue from Crotona Park North to Crotona Park South</td>
+			<td>standard, curbside</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Cypress Avenue from East 133rd Street to East 132nd Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Dr. M. L. King, Jr. Boulevard from Edward L. Grant Highway to West Tremont Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 133rd Street from Street Anns Avenue to Cypress Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 135th Street from Third Avenue to Lincoln Avenue</td>
+			<td>curbside</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 138th Street from Third Avenue and Locust Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 150th Street from Third Avenue to Melrose Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 167th Street from Grant Avenue to Clay Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 167th Street from Jerome Avenue to Walton Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 167th Street from Sheridan Avenue to Sherman Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 167th Street from Simpson Street to Longfellow Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 168th Street from Webster Avenue to Franklin Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 169th Street from Franklin Avenue to Simpson Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 174th Street from Hoe Avenue to Metcalf Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 188th Street from East Fordham Road to Grand Concourse</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>East 222nd Street from Bronx Boulevard and Baychester Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Edgewater Road from Westchester Avenue and Starlight Park</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Edward L. Grant Highway from East 167th Street to Dr. Martin Luther King, Jr. Boulevard</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Garrison Avenue from Leggett Avenue to Edgewater Road</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Gerard Avenue from East 138th Street to East 167th Street</td>
+			<td>standard, curbside</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Grand Concourse from East 161st Street to Mosholu Parkway</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Havemeyer Avenue from Cincinnatus Avenue to Lacombe Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Hering Avenue from Lydig Avenue to Sackett Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Jerome Avenue between Van Cortlandt Avenue and West 205th Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Lafayette Avenue from Metcalf Avenue to Havemeyer Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Leggett Avenue from Garrison Avenue to Truxton Street</td>
+			<td>standard, curbside</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Leggett Avenue from Southern Boulevard to Bruckner Boulevard</td>
+			<td>protected path</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Lincoln Avenue from East 135th Street to East 138th Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Longfellow Avenue from Bruckner Boulevard to East 174th Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Longfellow Avenue from Garrison Avenue to Lafayette Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Marble Hill Avenue from Manhattan-Bronx Boundary to West 230th Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Melrose Avenue from East 150th Street to East 149th Street</td>
+			<td>curbside</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Melrose Avenue from East 151st Street to Fork</td>
+			<td>standard, curbside</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Park Avenue from East 165th Street to East 188th Street</td>
+			<td>standard, curbside</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Prospect Avenue from 149th Street to Crotona Park South</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Randall Avenue from Truxton Street to Halleck Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Reservoir Avenue from West 195th Street to Strong Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Southern Boulevard from East 174th Street to Bronx Park South</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Street Anns Avenue from East 132nd Street to East 161st Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Strong Street from University Avenue to Reservoir Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Third Avenue from East 149th Street to East 135th Street</td>
+			<td>standard, curbside</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Tiffany Street from Viele Avenue to Garrison Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>University Avenue from West 195th Street to Strong Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Van Cortlandt Avenue East between Mosholu Parkway and Jerome Avenue East</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Walton Avenue from East 158th Street to East 138th Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Walton Avenue from East 167th Street to East 161st Street</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>West 205th Street between Jerome Avenue and Paul Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Westchester Avenue from Bryant Avenue and Bronx River Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Willis Avenue from East 135th Street to Third Avenue</td>
+			<td>pedestrian plaza, standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr>
+			<td>Yates Avenue from Pierce Avenue to Lydig Avenue</td>
+			<td>standard</td>
+			<td>the Bronx</td>
+		</tr>
+		<tr id="brooklyn">
+			<td>12th Avenue from 37th Street to Dahill Road</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>14th Street from Third Avenue to Prospect Park West</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>15th Street from Third Avenue to Eighth Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>2nd Street from Fourth Avenue to Prospect Park West</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>36th Street from Twelfth Avenue to Fort Hamilton Parkway</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>37th Street from Ninth Avenue to Twelfth Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>3rd Street from Smith Street to Prospect Park West</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>41st Street from Seventh Avenue to Ninth Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>42nd Street from Seventh Avenue to Ninth Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>62nd Street from Fifth Avenue to Seventh Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>68th Street from Third Avenue to Shore Road</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>72nd Street from Shore Road to Colonial Road</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>9th Street from Prospect Park West to Third Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>9th Street from Second Avenue to Gowanus Canal Shoreline</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Adams Street from Sands Street to Remsen Street</td>
+			<td>curbside, standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Ashland Place from De Kalb Avenue to Myrtle Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Atlantic Avenue from Brooklyn Bridge Park to Columbia Street</td>
+			<td>protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Banker Street from Nassau Avenue to Calyer Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Beard Street from Otsego Street to Ikea</td>
+			<td>curbside, standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Bedford Avenue from Emmons Avenue to Foster Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Bedford Avenue from Flatbush Avenue to Flushing Avenue</td>
+			<td>curbside, standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Bergen Street from Flatbush Avenue to Court Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Bergen Street from Howard Avenue to East New York Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Bergen Street from Ralph Avenue to Sixth Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Berkeley Place from Fifth Avenue to Plaza Street West</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Berry Street from Division Avenue to North 14th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Boerum Place from Livingston Street to Bergen Street</td>
+			<td>curbside, standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Borinquen Place from Grand Street to Rodney Street</td>
+			<td>protected path, standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Borinquen Place from South 3rd Street to South 4th Street</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Box Street from Manhattan Avenue to McGuinness Boulevard</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Broadway from Kent Avenue to Bedford Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Buffalo Avenue (east fork) from Eastern Parkway to East New York Avenue</td>
+			<td>curbside, standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Cadman Plaza East from Tillary Street to Red Cross Place</td>
+			<td>pedestrian plaza</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Carlton Avenue from Atlantic Avenue to Flushing Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Carlton Avenue from Flatbush Avenue to Pacific Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Caton Avenue from Dahill Road to McDonald Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Central Avenue from Myrtle Avenue to Decatur Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Clarendon Road from Flatbush Avenue to Ralph Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Clinton Street from Bay Street to Bush Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Clinton Street from Hamilton Avenue to Tillary Street</td>
+			<td>standard, protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Colonial Road from 92nd Street to Wakeman Place</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Columbia Street from Atlantic Avenue to Congress Street</td>
+			<td>protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Columbia Street from Bay Street to Halleck Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Columbia Street from Creamer Street to West 9th Street</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Congress Street from Columbia Street to Clinton Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Cropsey Avenue from 14th Avenue to Seventh Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Cropsey Avenue from Neptune Avenue to Hart Place</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Cumberland Street from De Kalb Avenue to Greene Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Dahill Road from Twelfth Avenue to Caton Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>De Kalb Avenue from Cumberland Street to Malcolm X Boulevard</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Dean Street from Smith Street to Rochester Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Degraw Street from Fifth Avenue to Third Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Driggs Avenue from Leonard Street to Division Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Eagle Street from West Street to McGuiness Boulevard</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>East 56th Street from Farragut Road to Avenue T</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>East New York Avenue from Prospect Place to Mother Gaston Boulevard</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>East New York Avenue from Utica Avenue to Howard Avenue</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Empire Boulevard from Bedford Avenue to East New York Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Erskine Street from Seaview Avenue to Shore Parkway Greenway</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Evergreen Avenue from Moffat Street to Myrtle Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Fifth Avenue from 10th Street to 19th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Fifth Avenue from 21st Street to 23rd Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Fifth Avenue from Carroll Street to 8th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Flatbush Avenue from Bedford Avenue to Foster Avenue</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Flushing Avenue from Classon Avenue to Navy Street</td>
+			<td>standard, curbside, protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Flushing Avenue from Harrison Avenue to Tompkins Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Fort Hamilton Parkway from East 7th Street to McDonald Avenue</td>
+			<td>standard, protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Foster Avenue from Bedford Avenue to Flatbush Avenue</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Franklin Avenue from Lefferts Place to Atlantic Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Franklin Avenue from Wallabout Street to Fulton Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Franklin Street from Quay Street to North 14th Street</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Freeman Street from McGuiness Boulevard to West Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Front Street from York Street to Old Fulton Street</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Grand Army Plaza Greenway from Plaza Street Westest to Plaza Street East</td>
+			<td>pedestrian plaza</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Grand Street from Borinquen Place to Metropolitan Avenue Bridge</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Greenpoint Avenue from McGuinness Boulevard to Kingsland Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Greenpoint Avenue from West Street to Manhattan Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Halleck Street from Otsego Street to Columbia Street</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Harrison Avenue from Wallabout Street to Flushing Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Henry Street from Clark Street to Amity Street</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Henry Street from Old Fulton Street to Clark Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Highland Boulevard from Miller Avenue to Vermont Place</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Hoyt Street from Schermerhorn Street to Douglass Street</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Jay Street from Fulton Street to Tillary Street</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Jay Street from Prospect Street to York Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Jay Street from Tillary Street and Jay Street</td>
+			<td>lane</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Kane Street from Court Street to Columbia Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Kent Avenue from North 14th Street to Williamsburg Street West</td>
+			<td>protected path, standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Lafayette Avenue from Fort Greene Place to Flatbush Avenue</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Leonard Street from Greenpoint Avenue to Moore Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Lincoln Place from Plaza Street West to Fifth Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Lincoln Road from New York Avenue to Flatbush Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Manhattan Avenue from Cook Street to Leonard Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Manhattan Avenue from Greenpoint Avenue to Ash Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Maple Street from Flatbush Avenue to Utica Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Marcy Avenue from South 2nd Street to Borinquen Place</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Marine Avenue from Oliver Street to 92nd Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>McDonald Avenue from Fort Hamilton Parkway to Caton Avenue</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Montague Street from Furman Street to Brooklyn Bridge Park Greenway</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Mother Gaston Boulevard from Liberty Avenue to East New York Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Myrtle Avenue from Flatbush Avenue Extension to Washington Park</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Nassau Avenue from North 14th Street to Guernsey Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Navy Street from Myrtle Avenue to Sands Street</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Neptune Avenue from Cropsey Avenue to Brighton 8th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Neptune Avenue from West 37th Street to West 20th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Ocean Parkway from East 8th Street to East 7th Street</td>
+			<td>protected path, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Old Fulton Street from Hicks Street to Bus Stop</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Oliver Street from Shore Road to Marine Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Oriental Boulevard from Oxford Street to Unnamed Street</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Pacific Street from Hopkinson Avenue to Brooklyn Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Park Circle from Prospect Park Southwest to Ocean Parkway</td>
+			<td>protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Plaza Street East from Grand Army Plaza Greenway to Eastern Parkway</td>
+			<td>standard, protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Plaza Street West from Plaza Street East to Flatbush Avenue</td>
+			<td>protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Plaza Street West from Plaza Street West to Street John's Place</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Prospect Park Grand Army Plaza Exit</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Prospect Park Loop</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Prospect Park Park Circle Approach</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Prospect Park West from Prospect Park Southwest to Plaza Street West</td>
+			<td>protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Prospect Street from Pearl Street to Jay Street</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Prospect Street Sidewalk from Washington Street and Adams Street</td>
+			<td>curbside, protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Rockaway Parkway from Avenue A to Ditmas Avenue</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Rockaway Parkway from East New York Avenue to Hegeman Avenue</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Sackett Street from Bond Street and Van Brunt Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Sackett Street from Third Avenue to Fifth Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Sands Street from Adams Street to Jay Street</td>
+			<td>standard, protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Schenck Avenue from Vandalia Avenue to Flatlands Avenue</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Schermerhorn Street from Third Avenue to Boerum Place</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Seventh Avenue from 41st Street to 65th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Seventh Avenue from Poly Place to 79th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Shore Road from 72nd Street to Fourth Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Shore Road from Fourth Avenue to 68th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Sixth Avenue from 63rd Street to 64th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Smith Street from 9th Street to Schermerhorn Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Smith Street from Hamilton Avenue to West 9th Street</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Smith Street from Livingston Street to Fulton Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>South 2nd Street from Rodney Street to Marcy Avenue</td>
+			<td>protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>South 3rd Street from Roebling Street to Borinquen Place</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>South 4th Street from Borinquen Place to Roebling Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>South 4th Street from South 5th Place to Wythe Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>South 5th Place from Kent Avenue to South 4th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Street Mark's Avenue from Rochester Avenue to Eastern Parkway</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Third Avenue from 66th Street to 68th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Third Avenue from Dean Street to 15th Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Throop Avenue from Fulton Street to Flushing Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Tillary Street from Adams Street and Jay Street</td>
+			<td>lane</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Tillary Street from Clinton Street to Jay Street</td>
+			<td>standard, curbside, protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Tompkins Avenue from Flushing Avenue to Ellery Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Tompkins Avenue from Myrtle Avenue to MacDonough Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Union Street from Van Brunt Street to Third Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Utica Avenue from Empire Boulevard to East New York Avenue</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Vandalia Avenue from Gateway Drive to Schenck Avenue</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Vanderbilt Avenue from Plaza Street East to Gates Avenue</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Wakeman Place from Colonial Road to Third Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Wallabout Street from Leonard Street to Harrison Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Washington Avenue from Grand Avenue to Dean Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Washington Avenue from Sterling Place to Park Place</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Washington Park from Myrtle Avenue to De Kalb Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>West 9th Street from Smith Street to Hamilton Avenue</td>
+			<td>curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Williamsburg Street West from Kent Avenue to Flushing Avenue</td>
+			<td>protected path</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Willoughby Avenue from Washington Park to Myrtle Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Wythe Avenue from North 14th Street to Division Avenue</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>Wythe Avenue from Ross Street to Wallabout Street</td>
+			<td>standard, curbside</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr>
+			<td>York Street from Washington Street to Front Street</td>
+			<td>standard</td>
+			<td>Brooklyn</td>
+		</tr>
+		<tr id="manhattan">
+			<td>59th Street from bridge on-ramp and Second Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Adam C Powell Boulevard from Central Park North to West 118th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Albany Street from South End Avenue to Hudson River Greenway</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Allen Street from Division Street to East Houston Street</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Avenue A from East Houston Street to East 14th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Avenue C from East 14th Street to East River Esplanade</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Avenue C from East 4th Street to East 13th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Avenue Of The Americas from Bleecker Street to Downing Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Avenue Of The Americas from West 8th Street to West 42nd Street</td>
+			<td>curbside, standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Bethune Street from Hudson Street to Eighth Avenue</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Bleecker Street from Eighth Avenue to Bowery</td>
+			<td>curbside, standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Broadway from Columbus Circle to West 47th Street</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Broadway from West 44th Street to East 17th Street</td>
+			<td>pedestrian plaza, protected path, standard, curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Broome Street from Sixth Avenue and Varick Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Broome Street from West Broadway and Thompson Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Cabrini Boulevard from West 178th Street to West 177th Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Canal Street from Forsyth Street to Chrystie Street</td>
+			<td>protected path, standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Carmine Street from Seventh Avenue South to Bleecker Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Central Park West from West 62nd Street to West 109th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Central Park: Central Park Loop from Central Park North to Central Park South</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Central Park: East 72nd Street Approach from Fifth Avenue to East Drive</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Central Park: West 72nd Street Approach from Central Park West to West Drive</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Central Park: West 77nd Street Approach from Central Park West to West Drive</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Central Park: West 90nd Street Approach from Central Park West to West Drive</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Central Road from Wards Island Greenway to Randalls Island Greenway</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Centre Street from Duane Street to Worth Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Charlton Street from Macdougal Street to Greenwich Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Christopher Street from West Street to Greenwich Avenue</td>
+			<td>standard, curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Chrystie Street from Hester Street to East Houston Street</td>
+			<td>standard, curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Church Street from Warren Street and Sixth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Clarkson Street from Greenwich Street to Seventh Avenue South</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Clinton Street from Delancey Street to East Houston Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Clinton Street from Grand Street to East Broadway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Columbus Avenue from 110th Street and 96th Street</td>
+			<td>curbside, protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Columbus Avenue from 77th Street and 69th Street</td>
+			<td>curbside, protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Columbus Avenue from West 96th Street to West 77th Street</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Columbus Circle from Broadway to Central Park South</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Delancey Street from Suffolk Street to Clinton Street</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Delancey Street South from Mangin Street to FDR Drive</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Dyckman Street from Nagle Avenue to Tenth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Dyckman Street from Seaman Avenue to Henry Hudson Parkway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 10th Street from Fifth Avenue to Avenue A</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 119th Street from Park Avenue to Fifth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 119th Street from Pleasant Avenue to Lexington Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 120th Street from Fifth Avenue to Paladino Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 17th Street from Union Square West to Union Square East</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 1st Street from Avenue A to Bowery</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 20th Street from Fifth Avenue to Gramercy Park West</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 20th Street from Gramercy Park East to Third Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 20th Street from Second Avenue to East River Esplanade</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 21st Street from First Avenue to Second Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 21st Street from Gramercy Park West to Fifth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 21st Street from Third Avenue to Gramercy Park East</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 29th Street from First Avenue to Third Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 29th Street from Madison Avenue to Fifth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 2nd Street from Bowery to Second Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 30th Street from Fifth Avenue to Madison Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 30th Street from Park Avenue to Third Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 30th Street from Second Avenue to First Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 39th Street from First Avenue to Second Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 39th Street from Third Avenue to Lexington Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 40th Street from First Avenue to Second Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 40th Street from Lexington Avenue to Park Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 40th Street from Madison Avenue to Fifth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 43rd Street from Fifth Avenue to Vanderbilt Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 44th Street from Fifth Avenue to Vanderbilt Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 48th Street from Fifth Avenue to Madison Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 48th Street from Second Avenue to Lexington Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 54th Street from Fifth Avenue to Madison Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 54th Street from Second Avenue to Sutton Place South</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 55th Street from Fifth Avenue to Park Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 55th Street from Sutton Place South to Lexington Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 89th Street from East End Avenue to First Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 90th Street from Fifth Avenue to East End Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 91st Street from York Avenue to Fifth Avenue</td>
+			<td>pedestrian plaza, standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East 9th Street from Fifth Avenue to Third Avenue</td>
+			<td>standard, curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>East Broadway from Chatham Square to Grand Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Eighth Avenue from Bank Street to West 39th Street</td>
+			<td>standard, protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Eighth Avenue from West 42nd Street to West 57th Street</td>
+			<td>curbside, standard, protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Eighth Avenue from West 58th Street to Columbus Circle</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>FDR Drive from Delancey Street South to Cherry Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>FDR Drive from East 28th Street to Waterside Plaza Entrance</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Fifth Avenue from Broadway to Washington Square North</td>
+			<td>standard, curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>First Avenue from 59th Street and 61st Street</td>
+			<td>curbside, protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>First Avenue from East 1st Street to East 124th Street</td>
+			<td>protected path, standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Fort Washington Avenue from West 160th Street to West 165th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Fort Washington Avenue from West 168th Street to West 177th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Fort Washington Avenue from West 179th Street to Margaret Corbin Plaza</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Fourth Avenue from East 10th Street to East 14th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Fred Douglass Boulevard from Street Nicholas Avenue to Fred Douglass Circle</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Gramercy Park North from Gramercy Park East to Gramercy Park West</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Gramercy Park South from Gramercy Park West to Gramercy Park East</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Grand Street from Chrystie Street to Forsyth Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Grand Street from Essex Street to East Broadway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Grand Street from Jackson Street to FDR Drive</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Grand Street from Varick Street to Chrystie Street</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Greenwich Street from Canal Street to Gansevoort Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Harlem River Drive Greenway from West 161st Street to Tenth Avenue</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Haven Avenue from West 177th Street to West 169th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Hudson Street from Dominick Street to Bank Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Hudson Street from West 14th Street to Bethune Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Lafayette Street from Reade Street to East 10th Street</td>
+			<td>standard, curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Laguardia Place from West 3rd Street and Washington Square South</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Macdougal Street from Washington Square South to Bleecker Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Madison Street from Gouverneur Street to Pike Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Marble Hill Avenue from West 225th Street to Manhattan-Bronx Boundary</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Margaret Corbin Drive from Fort Washington Avenue to Fort Tryon Place</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Montgomery Street from South Street to Henry Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Ninth Avenue from Hudson Street to West 59th Street</td>
+			<td>curbside, standard, protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Pike Slip from South Street to Cherry Street</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Pike Street from Cherry Street to Division Street</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Pleasant Avenue from East 120th Street to East 119th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Prince Street from Bowery to Macdougal Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Reade Street from Lafayette Street to Greenwich Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Rivington Street from Attorney Street to Forsyth Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Rivington Street from Chrystie Street to Bowery</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Samuel Dickstein Plaza from Henry Street to Grand Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Seaman Avenue from Riverside Drive to Isham Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Seaman Avenue from West 214th Street to West 218th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Second Avenue from East Houston Street to East 34th Street</td>
+			<td>standard, curbside, protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Seventh Avenue South from Clarkson Street to Carmine Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Sixth Avenue from Church Street and West Broadway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>South End Avenue from Albany Street to Liberty Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>South Street from Wall Street to John Street</td>
+			<td>protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Staff Street from Riverside Drive to Dyckman Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Stanton Street from Allen Street Mall to Pitt Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Stanton Street from Eldridge Street to Allen Street Mall</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Street Nicholas Avenue from West 117th Street to West 160th Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Street Nicholas Avenue from West 161st Street to West 168th Street</td>
+			<td>standard, curbside, protected path</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Suffolk Street from East Houston Street to Stanton Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Suffolk Street from Rivington Street to Delancey Street Median</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Thompson Street from Broome Street to Watts Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Twelfth Avenue from West 135th Street to Street Claire Place</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Union Square East from East 17th Street to East 15th Street</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Varick Street from Beach Street and West Broadway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Varick Street from Canal Street and Laight Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Warren Street from West Street to Broadway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Washington Square East from Washington Square South and Washington Square North</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Washington Square North from Fifth Avenue to Washington Square West</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Washington Square North from Washington Square East and Fifth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Washington Square South from Washington Square West and Washington Square East</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Washington Square West from Washington Square North to Washington Square South</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>Washington Street from Gansevoort Street to Canal Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 106th Street from Broadway to Central Park West</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 106th Street from Riverside Drive to West End Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 10th Street from Bleecker Street to Waverly Place</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 10th Street from Greenwich Avenue to Fifth Avenue</td>
+			<td>standard, curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 10th Street from West Street to Hudson Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 119th Street from Fifth Avenue to Street Nicholas Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 120th Street from Street Nicholas Avenue to Mount Morris Park West</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 160th Street from Amsterdam Avenue to Street Nicholas Avenue</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 177th Street from Cabrini Boulevard to Ft. Washington Avenue</td>
+			<td>curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 177th Street from Cabrini Boulevard to Haven Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 18th Street from Hudson River Greenway to Tenth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 20th Street from Seventh Avenue to Fifth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 20th Street from Tenth Avenue to Eighth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 218th Street from Broadway to Indian Road</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 21st Street from Fifth Avenue to Tenth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 228th Street from Broadway to Marble Hill Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 22nd Street from Tenth Avenue to Hudson River Greenway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 29th Street from Fifth Avenue to Hudson River Greenway</td>
+			<td>standard, curbside</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 30th Street from Hudson River Greenway to Eleventh Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 30th Street from Ninth Avenue to Seventh Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 30th Street from Sixth Avenue to Fifth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 30th Street from Tenth Avenue to Lincoln Tunnel Exit</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 39th Street from Eighth Avenue to Ninth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 40th Street from Fifth Avenue to Sixth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 43rd Street from Eighth Avenue to Tenth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 43rd Street from Eleventh Avenue to Hudson River Greenway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 43rd Street from Fifth Avenue to Sixth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 44th Street from Fifth Avenue to Seventh Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 44th Street from Ninth Avenue to Hudson River Greenway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 48th Street from Fifth Avenue to Sixth Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 51st Street from Fifth Avenue to Broadway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 54th Street from Eighth Avenue to Eleventh Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 54th Street from Sixth Avenue to Seventh Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 55th Street from Eighth Avenue to Hudson River Greenway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 55th Street from Fifth Avenue to Broadway</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 77th Street from Riverside Drive to Central Park West</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 78th Street from Riverside Drive to Columbus Avenue</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 90th Street from Riverside Drive to Central Park West</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 91st Street from Central Park West to Riverside Drive</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West 9th Street from Fifth Avenue to Avenue Of The Americas</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West Broadway from Beach Street and Warren Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr>
+			<td>West Houston Street from Washington Street to West Street</td>
+			<td>standard</td>
+			<td>Manhattan</td>
+		</tr>
+		<tr id="queens">
+			<td>121st Avenue from Francis Lewis Boulevard to 233rd Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>14th Street from Astoria Park South to 27th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>156th Avenue from Shore Parkway Service Road to Belt Parkway</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>157th Avenue from 84th Street to 98th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>164th Street from 84th Road to Grand Central Parkway Service Road South</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>164th Street from Booth Memorial Avenue to Underhill Avenue</td>
+			<td>curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>164th Street from Grand Central Parkway Service Road North to Horace Harding Expressway Service Road South</td>
+			<td>standard, curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>20th Avenue from Hazen Street to Shore Boulevard</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>21st Street from 20th Avenue to Hoyt Avenue South</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>222nd Street from Braddock Avenue to 100th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>230th Street from 69th Avenue to 67th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>232nd Street from East Hampton Boulevard to 50th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>233rd Street from 67th Avenue to West Alley Road</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>23rd Street from Queens Plaza South to Queens Plaza North</td>
+			<td>curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>27th Avenue from 1st Street to 8th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>28th Street from 34th Avenue to Queens Plaza North</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>29th Street from Queens Plaza North to 34th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>34th Avenue from 113th Street to 59th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>34th Avenue from 12th Street to Crescent Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>34th Avenue from Northern Boulevard to 47th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>35th Street from 34th Avenue to 20th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>36th Street from 20th Avenue to 34th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>37th Road from 73rd Street to 75th Street</td>
+			<td>pedestrian plaza</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>43rd Avenue from Skillman Avenue to 51st Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>44th Drive from Jackson Avenue to Midblock of 21st Street and 23rd Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>44th Drive from Vernon Boulevard to 21st Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>48th Street from 37th Avenue to 34th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>49th Avenue from Vernon Boulevard to Jackson Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>50th Avenue from 232nd Street to Horatio Parkway</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>51st Avenue from Jackson Avenue to Vernon Boulevard</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>67th Avenue from 230th Street to 233rd Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>69th Avenue from 230th Street to Cloverdale Boulevard</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>69th Road from 113th Street to Park Drive East</td>
+			<td>curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>73rd Avenue from Main Street to 199th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>73rd Street from Roosevelt Avenue to Broadway</td>
+			<td>pedestrian plaza</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>84th Street from 149th Avenue to 157th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>88th Avenue from Sutphin Boulevard to Parsons Boulevard</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>89th Avenue from Parsons Boulevard to Sutphin Boulevard</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>8th Street from 27th Avenue to Main Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>91st Street from 157th Avenue to 165th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>92nd Street from 165th Avenue to 157th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Astoria Park South from Shore Boulevard to 21st Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Beach 108th Street from Rockaway Beach Boulevard to Shore Front Parkway</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Beach Channel Drive from Bay 32nd Street to Beach 45th Street</td>
+			<td>curbside, standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Beach Channel Drive from Beach 47th Street to Beach 58th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Beach Channel Drive from Beach 62nd Street to Beach 69th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Beach Channel Drive from Horton Street to Dickens Street</td>
+			<td>curbside, standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Broadway from 37th Road to 74th Street</td>
+			<td>curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Center Boulevard from 47th Road to 48th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Cloverdale Boulevard from 69th Avenue to 73rd Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Cloverdale Boulevard from Oakland Lake Shoreline to Horatio Parkway</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Commonwealth Boulevard from 88th Road to Union Turnpike</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Cross Bay Boulevard/North Channel Bridge from 165th Avenue to Van Brunt Road</td>
+			<td>standard, curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Cypress Hills Street from Cooper Avenue to Mount Carmel Cemetery Ent</td>
+			<td>curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>East Hampton Boulevard from 58th Road to 231st Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Francis Lewis Boulevard from 120th Avenue to 121st Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Horatio Parkway from 50th Avenue to Cloverdale Boulevard</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Hoyt Avenue North from 29th Street to 19th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Hoyt Avenue South from 21st Street to 29th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Jackson Avenue from 49th Avenue to 51st Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Jewel Avenue from 113th Street to 164th Street</td>
+			<td>standard, curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Park Drive East from Jewel Avenue to 77th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Park Lane from Forest Park Drive to Onslow Place</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Parsons Boulevard from 90th Avenue to 88th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Parsons Boulevard from Hillside Avenue to Highland Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Perimeter Road from United Nations Avenue North to New York Avenue</td>
+			<td>curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Rockaway Beach Boulevard from Beach 109th Street to Beach 108th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Rockaway Beach Boulevard from Jacob Riis Boardwalk to Beach 125th Street</td>
+			<td>standard, curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Rockaway Breezy Boulevard from Beach 201st Street to East Market Street</td>
+			<td>curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Sanford Avenue from Kissena Boulevard to College Point Boulevard</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Shore Front Parkway from Bus Stop to Beach Breeze Place</td>
+			<td>curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Shore Parkway Sr from 84th Street to 84th Street</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Skillman Avenue from 56th Street to Queens Boulevard</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>State Road from Beach 169th Street to Beach 193rd Street</td>
+			<td>standard, curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Underhill Avenue from Utopia Parkway to 196th Street</td>
+			<td>curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Utopia Parkway from Cross Island Parkway Service Road South to 25th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Vernon Boulevard from 45th Road to Queensbridge Park Greenway</td>
+			<td>standard, curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Vernon Boulevard from Broadway to 30th Road</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Vernon Boulevard from Hallets Cove Esplanade to Queensbridge Park Greenway</td>
+			<td>curbside</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Winchester Boulevard from Braddock Avenue to Union Turnpike</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr>
+			<td>Woodside Avenue from 39th Avenue to 39th Avenue</td>
+			<td>standard</td>
+			<td>Queens</td>
+		</tr>
+		<tr id="staten">
+			<td>Arlene Street from Lamberts Lane to Signs Road</td>
+			<td>standard</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>Bay Street from Hospital Driveway to Edgewater Street</td>
+			<td>curbside</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>Father Capodanno Boulevard from Lincoln Avenue to Midland Avenue</td>
+			<td>curbside</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>Hylan Boulevard from Page Avenue to Poillon Avenue</td>
+			<td>standard, curbside</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>Jefferson Avenue from South Railroad Avenue to North Railroad Avenue</td>
+			<td>standard</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>Lily Pond Avenue from Father Capodanno Boulevard to School Road</td>
+			<td>standard, curbside</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>Midland Avenue from Father Capodanno Boulevard to Hylan Boulevard</td>
+			<td>standard</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>Midland Avenue from North Railroad Avenue to South Railroad Avenue</td>
+			<td>standard</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>New Dorp Plaza from New Dorp Lane to Jacques Avenue</td>
+			<td>standard</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>North Railroad Avenue from Jefferson Avenue to New Dorp Lane</td>
+			<td>standard</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>Richmond Terrace from Ferry Terminal Drive to Westervelt Avenue</td>
+			<td>standard, curbside</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>Richmond Terrace from Lafayette Avenue to York Avenue</td>
+			<td>curbside</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>School Road from Bay Street to Tompkins Avenue</td>
+			<td>standard</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>South Railroad Avenue from Jacques Avenue to Jefferson Avenue</td>
+			<td>standard</td>
+			<td>Staten Island</td>
+		</tr>
+		<tr>
+			<td>Tompkins Avenue from School Road to Lily Pond Avenue</td>
+			<td>curbside</td>
+			<td>Staten Island</td>
+		</tr>
+</tbody>
+</table>
+    </div>
+  <nav>
+  <div class="agency-nav agency-module">
+    <ul id="nav-list">
+      <li class="nav-item" id="nav-home">
+        <a class="nav-item-link" href="../home/home.shtml">Home</a>
+      </li>
+
+      <li class="nav-item" id="nav-about">
+        <a class="nav-item-link" href="../about/about.shtml">About DOT</a>
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../about/currentproj.shtml">Current Projects</a></li>
+          <li><a class="nav-sub-item" href="../about/dotlibrary.shtml">DOT Library</a></li>
+          <li><a class="nav-sub-item" href="../about/safety-education.shtml">Safety Education</a></li>
+          <li><a class="nav-sub-item" href="http://a841-tfpweb.nyc.gov/dotpress/">Press Releases</a></li>
+          <li><a class="nav-sub-item" href="http://www1.nyc.gov/events/index.html">Events Calendar</a></li>
+          <li><a class="nav-sub-item" href="../about/lower_manhattan_construction.shtml">Lower Manhattan Construction</a></li>
+          <li><a class="nav-sub-item" href="../about/mobility_management.shtml">Mobility Management</a></li>
+          <li><a class="nav-sub-item" href="../about/datafeeds.shtml">Data Feeds</a></li>
+          <li><a class="nav-sub-item" href="../about/doing-business.shtml">Doing Business with DOT</a></li>
+          <li><a class="nav-sub-item" href="../about/employ.shtml">Employment</a></li>
+          <li><a class="nav-sub-item" href="../about/dot_lap.shtml">Language Access Plan</a></li>
+          <li><a class="nav-sub-item" href="../about/mou_dot.shtml">Interagency MOUs</a></li>
+          <li><a class="nav-sub-item" href="../sitemap/sitemap.shtml">Sitemap</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-pedestrians">
+        <a class="nav-item-link" href="../pedestrians/pedestrians.shtml">Pedestrians</a>
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../pedestrians/publicplaza.shtml">NYC Plaza Program</a></li>
+          <li><a class="nav-sub-item" href="../pedestrians/streetseats.shtml">Street Seats</a></li>
+          <li><a class="nav-sub-item" href="../pedestrians/citybench.shtml">CityBench</a></li>
+          <li><a class="nav-sub-item" href="../pedestrians/dotart.shtml">DOT Art</a></li>
+          <li><a class="nav-sub-item" href="../pedestrians/safeseniors.shtml">Safe Streets for Seniors</a></li>
+          <li><a class="nav-sub-item" href="../pedestrians/walknyc.shtml">WalkNYC</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-bicyclists">
+        <a class="nav-item-link" href="../bicyclists/bicyclists.shtml">Bicyclists</a>
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../bicyclists/bikemaps.shtml">Bike Maps</a></li>
+          <li><a class="nav-sub-item" href="../bicyclists/biketips.shtml">Bike Safety</a></li>
+          <li><a class="nav-sub-item" href="../bicyclists/bicycleparking.shtml">Bike Parking</a></li>
+          <li><a class="nav-sub-item" href="../bicyclists/bikestats.shtml">Bike Network &amp; Stats</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-ferries">
+        <a class="nav-item-link" href="../ferrybus/ferrybus.shtml">Ferries &amp; Buses</a>
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../ferrybus/staten-island-ferry.shtml">Staten Island Ferry</a></li>
+          <li><a class="nav-sub-item" href="http://www.nyc.gov/brt">Bus Rapid Transit</a></li>
+          <li><a class="nav-sub-item" href="../ferrybus/ferintro.shtml">Private Ferries</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-motorists">
+        <a class="nav-item-link" href="../motorist/motorist.shtml">Motorists &amp; Parking</a>
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../motorist/alternate-side-parking.shtml">Alternate Side Parking</a></li>
+          <li><a class="nav-sub-item" href="../motorist/parking-rates.shtml">Parking Rates</a></li>
+          <li><a class="nav-sub-item" href="../motorist/parking-regulations.shtml">Parking Regulations</a></li>
+          <li><a class="nav-sub-item" href="../motorist/weektraf.shtml">Weekly Traffic Advisories</a></li>
+          <li><a class="nav-sub-item" href="../motorist/atis.shtml">Real Time Traffic Cameras</a></li>
+          <li><a class="nav-sub-item" href="../motorist/trucks.shtml">Trucks</a></li>
+          <li><a class="nav-sub-item" href="../motorist/parkinglist.shtml">Municipal Parking Lots</a></li>
+          <li><a class="nav-sub-item" href="../motorist/slowzones.shtml">Neighborhood Slow Zones</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-infrastructure">
+        <a class="nav-item-link" href="../infrastructure/infrastructure.shtml">Infrastructure</a>
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../infrastructure/bridges.shtml">Bridges</a></li>
+          <li><a class="nav-sub-item" href="../infrastructure/permits.shtml">Street Work Permits</a></li>
+          <li><a class="nav-sub-item" href="../infrastructure/construction.shtml">Street Construction</a></li>
+          <li><a class="nav-sub-item" href="../infrastructure/sidewalkintro.shtml">Sidewalk Repair</a></li>
+          <li><a class="nav-sub-item" href="../infrastructure/custom-signs.shtml">Custom Signs</a></li>
+          <li><a class="nav-sub-item" href="../infrastructure/signals.shtml">Traffic Signals</a></li>
+          <li><a class="nav-sub-item" href="../infrastructure/streetlights.shtml">Street Lights</a></li>
+          <li><a class="nav-sub-item" href="../infrastructure/revconif.shtml">Revocable Consents</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-contact">
+        <a class="nav-item-link" href="../contact/contact.shtml">Contact DOT</a>
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../contact/customer-service.shtml">Customer Service</a></li>
+          <li><a class="nav-sub-item" href="../contact/connect.shtml">Social Media</a></li>
+        </ul>
+      </li>
+    </ul>
+
+    <ul class="agency-nav-helpers">
+      <li class="nav-item nav-undecorated search">
+        <form name="gs" method="get" action="http://search1.nyc.gov/search?" class="form-search form-inline">
+          <input value="xml_no_dtd" name="output" type="hidden">
+          <input value="default_collection" name="site" type="hidden">
+          <input value="agency_frontend" name="proxystylesheet" type="hidden">
+          <input value="agency_frontend" name="client" type="hidden">
+          <input value="www.nyc.gov/html/dot" name="sitesearch" type="hidden">
+          <div class="input-append">
+            <input name="q" type="text" class="search-query agency-nav-input" placeholder="Search"><button type="submit" class="btn" id="search" name="search">Go</button>
+          </div>
+        </form>
+      </li>
+      <li id="translate-nav" class="nav-item nav-undecorated">
+        <a class="nav-item-link translate-toggle">Translate Page</a>
+        <div id="google_translate_element"></div>
+        <script type="text/javascript">//<!--
+        function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false, gaTrack: true, gaId: 'UA-9518673-1', layout: google.translate.TranslateElement.InlineLayout.SIMPLE },'google_translate_element');} //-->
+        </script>
+        <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+      </li>
+
+      <li class="nav-item nav-undecorated" id="nav-vote">
+      <a href="http://www.nyccfb.info/nyc-votes/agency-registering-vote">Register to Vote Here!</a></li>
+
+    </ul>
+  </div>
+</nav>
+
+  </section>
+ </div>
+<footer>
+  <div id="nycgov-footer" class="nycgov footer-wrapper right-margin">
+    <div id="nycgov-footer-copy" class="nycgov-first nycgov-part left-margin-inline left-margin-inset">Copyright <script language="javascript">document.write(new Date().getFullYear());</script> The City of New York</div>
+    <div class="nycgov-second footer nycgov-part">
+      <ul class="nycgov-links footer right-margin-inline">
+        <li><a href="http://www1.nyc.gov/home/contact-us.page">Contact Us</a></li>
+        <li><a href="http://www1.nyc.gov/home/privacy-policy.page">Privacy Policy</a></li>
+        <li class="last"><a href="http://www1.nyc.gov/home/terms-of-use.page">Terms of Use</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<script src="../../scripts/jquery.min.js"></script>
+<script src="../../scripts/helpers.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet. mathiasbynens.be/notes/async-analytics-snippet -->
+<script>
+  var _gaq=[['_setAccount','UA-9518673-1'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+<!-- webtrends -->
+<script type="text/javascript">
+	var prod_dcsId_val = "dcs2228eqso1l3bqz1f1xk6me_4c4i";
+</script>
+<script type="text/javascript" src="http://www1.nyc.gov/assets/home/js/webtrends/webtrends_v10.js"></script>
+<!-- End Analytics Tagging 10/2/14. (NYC.gov Specific) -->
+
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $('#lane-list').filterWithInput('#filter-lane');
+    });
+  </script>
+</body>
+</html>

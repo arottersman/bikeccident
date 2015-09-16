@@ -1,0 +1,10 @@
+MANHATTAN_INTERSECTIONS_URL = "http://www.nyc.gov/html/nypd/downloads/excel/traffic_data/mnacc.xls"
+BROOKLYN_INTERSECTIONS_URL = "UNIMPLEMENTED"
+QUEENS_INTERSECTIONS_URL = "UNIMPLEMENTED"
+STATEN_INTERSECTIONS_URL = "UNIMPLEMENTED"
+BRONX_INTERSECTIONS_URL = "UNIMPLEMENTED"
+GEOCLIENT_BASE_URL = "https://api.cityofnewyork.us/geoclient/v1/"
+GEOCLIENT_API_KEY = "bikeccident"
+GEOCLIENT_API_ID = "d02e0e27"
+GOOGLE_DIRECTIONS_BASE_URL = 'https://maps.googleapis.com/maps/api/directions/'
+GOOGLE_DIRECTIONS_API_KEY = 'AIzaSyA3PWQjque9073XBqY7mfsMa0hM0kGaBiI'
